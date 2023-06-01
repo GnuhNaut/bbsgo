@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins';
+    color: #fff;
+}
+main {
+    background-image: linear-gradient(120deg, #0F5305, #000000, #105606);
+    min-height: 100vh;
+}
+.btn {
+    background-color: #FF9B6F;
+    border: 0;
+}
